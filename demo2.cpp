@@ -204,7 +204,7 @@ Mat gabor_filter(Mat& img, int type)
 	}
 }
 
-int maint3()
+int maint()
 {
 	//construct_gabor_bank();
 	//return 0;
